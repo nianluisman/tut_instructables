@@ -6826,7 +6826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 91.44 26.035 0)
 			(effects
 				(font
@@ -7381,7 +7381,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x08_P2.00mm_Vertical"
 			(at 120.65 158.75 0)
 			(effects
 				(font
